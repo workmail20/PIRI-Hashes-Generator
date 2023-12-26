@@ -1,0 +1,75 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows10.0.22621.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <SupportedOSPlatformVersion>10.0.17763.0</SupportedOSPlatformVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Fonts\Kanit-Black.ttf" />
+    <None Remove="Fonts\Kanit-BlackItalic.ttf" />
+    <None Remove="Fonts\Kanit-Bold.ttf" />
+    <None Remove="Fonts\Kanit-BoldItalic.ttf" />
+    <None Remove="Fonts\Kanit-ExtraBold.ttf" />
+    <None Remove="Fonts\Kanit-ExtraBoldItalic.ttf" />
+    <None Remove="Fonts\Kanit-ExtraLight.ttf" />
+    <None Remove="Fonts\Kanit-ExtraLightItalic.ttf" />
+    <None Remove="Fonts\Kanit-Italic.ttf" />
+    <None Remove="Fonts\Kanit-LightItalic.ttf" />
+    <None Remove="Fonts\Kanit-Medium.ttf" />
+    <None Remove="Fonts\Kanit-MediumItalic.ttf" />
+    <None Remove="Fonts\Kanit-Regular.ttf" />
+    <None Remove="Fonts\Kanit-SemiBold.ttf" />
+    <None Remove="Fonts\Kanit-SemiBoldItalic.ttf" />
+    <None Remove="Fonts\Kanit-Thin.ttf" />
+    <None Remove="Fonts\Kanit-ThinItalic.ttf" />
+    <None Remove="resources\copy_icon.png" />
+    <None Remove="resources\link2.png" />
+    <None Remove="resources\tree.png" />
+    <None Remove="resources\tree2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hardcodet.NotifyIcon.Wpf" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Fonts\Kanit-Black.ttf" />
+    <Resource Include="Fonts\Kanit-BlackItalic.ttf" />
+    <Resource Include="Fonts\Kanit-Bold.ttf" />
+    <Resource Include="Fonts\Kanit-BoldItalic.ttf" />
+    <Resource Include="Fonts\Kanit-ExtraBold.ttf" />
+    <Resource Include="Fonts\Kanit-ExtraBoldItalic.ttf" />
+    <Resource Include="Fonts\Kanit-ExtraLight.ttf" />
+    <Resource Include="Fonts\Kanit-ExtraLightItalic.ttf" />
+    <Resource Include="Fonts\Kanit-Italic.ttf" />
+    <Resource Include="Fonts\Kanit-Light.ttf" />
+    <Resource Include="Fonts\Kanit-LightItalic.ttf" />
+    <Resource Include="Fonts\Kanit-Medium.ttf" />
+    <Resource Include="Fonts\Kanit-MediumItalic.ttf" />
+    <Resource Include="Fonts\Kanit-Regular.ttf" />
+    <Resource Include="Fonts\Kanit-SemiBold.ttf" />
+    <Resource Include="Fonts\Kanit-SemiBoldItalic.ttf" />
+    <Resource Include="Fonts\Kanit-Thin.ttf" />
+    <Resource Include="Fonts\Kanit-ThinItalic.ttf" />
+    <Resource Include="resources\copy_icon.png" />
+    <Resource Include="resources\ico.png" />
+    <Resource Include="resources\link2.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="resources\tree.png" />
+    <Resource Include="resources\tree2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="resources\info.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="resources\v1.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

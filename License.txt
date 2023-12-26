@@ -1,0 +1,43 @@
+Used software, libraries, frameworks: 
+
+CryptSharpOfficial, 2.1.0. License: https://www.zer7.com/files/oss/cryptsharp/License.txt
+NAudio, 2.1.0. License: https://www.nuget.org/packages/NAudio/2.1.0/license
+Net.Codecrete.QrCodeGenerator, 2.0.3. License [MIT]: https://licenses.nuget.org/MIT
+SkiaSharp, 2.88.3( SkiaSharp.Extended ). License [MIT]: https://github.com/mono/SkiaSharp/blob/main/LICENSE.md
+sqlite-net-pcl, 1.8.116. License: https://www.nuget.org/packages/sqlite-net-pcl/1.8.116/license
+SQLitePCLRaw.bundle_green, 2.1.5. License [Apache-2.0]: https://licenses.nuget.org/Apache-2.0
+workmail20.pirichain.api, 1.0.2. License [MIT]: https://www.nuget.org/packages/workmail20.pirichain.api/1.0.2/license
+ClosedXML, 0.102.1. License [MIT]: https://licenses.nuget.org/MIT
+NPOI, 2.6.1. License [Apache-2.0]: https://www.nuget.org/packages/NPOI/2.6.1/license
+FlashCap, 1.6.0. License [Apache-2.0]: https://licenses.nuget.org/Apache-2.0
+QuestPDF, 2023.6.1. License: https://www.nuget.org/packages/QuestPDF/2023.6.1/license
+ZXing.Net, 0.16.13. License [Apache-2.0]: https://licenses.nuget.org/Apache-2.0
+DevHawk.RIPEMD160, 3.0.27. License [MIT]: https://licenses.nuget.org/MIT
+BIP39-NET, 1.0.1. License [MIT]: https://licenses.nuget.org/MIT
+SimpleBase, 4.0.0. License [Apache-2.0]: https://licenses.nuget.org/Apache-2.0
+
+Sound effects:
+https://mixkit.co/,  @mixkit_co
+
+
+
+
+Used software, libraries, frameworks: 
+
+Hardcodet.NotifyIcon.Wpf, 1.1.0. License: https://www.nuget.org/packages/Hardcodet.NotifyIcon.Wpf/1.1.0/license
+CryptSharpOfficial, 2.1.0. License: https://www.zer7.com/files/oss/cryptsharp/License.txt
+NAudio, 2.1.0. License: https://www.nuget.org/packages/NAudio/2.1.0/license
+Net.Codecrete.QrCodeGenerator, 2.0.3. License [MIT]: https://licenses.nuget.org/MIT
+SkiaSharp, 2.88.3( SkiaSharp.Extended ). License [MIT]: https://github.com/mono/SkiaSharp/blob/main/LICENSE.md
+sqlite-net-pcl, 1.8.116. License: https://www.nuget.org/packages/sqlite-net-pcl/1.8.116/license
+SQLitePCLRaw.bundle_green, 2.1.5. License [Apache-2.0]: https://licenses.nuget.org/Apache-2.0
+workmail20.pirichain.api, 1.0.2. License [MIT]: https://www.nuget.org/packages/workmail20.pirichain.api/1.0.2/license
+ClosedXML, 0.102.1. License [MIT]: https://licenses.nuget.org/MIT
+NPOI, 2.6.1. License [Apache-2.0]: https://www.nuget.org/packages/NPOI/2.6.1/license
+FlashCap, 1.6.0. License [Apache-2.0]: https://licenses.nuget.org/Apache-2.0
+QuestPDF, 2023.6.1. License: https://www.nuget.org/packages/QuestPDF/2023.6.1/license
+ZXing.Net, 0.16.13. License [Apache-2.0]: https://licenses.nuget.org/Apache-2.0
+FirebaseDatabase.net, 4.2.0. License [MIT]: https://github.com/step-up-labs/firebase-database-dotnet/blob/master/LICENSE
+
+Sound effects:
+https://mixkit.co/,  @mixkit_co
