@@ -1,3 +1,6 @@
+MIT
+
+
 Used software, libraries, frameworks: 
 
 CryptSharpOfficial, 2.1.0. License: https://www.zer7.com/files/oss/cryptsharp/License.txt
