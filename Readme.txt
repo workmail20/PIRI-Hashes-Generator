@@ -2,6 +2,8 @@ The Software for generation hashes(crypto-pairs from pub/private keys) of the Pi
 Sending, receiving, controlling transactions in the system. 
 Reading and writing data to the blockchain database.
 
+![alt text](https://hashesgenerator.com/images/screen_1.png)
+
 Features:
 	1. Support to export PDF, CSV, XLS, DOCX, HTML, TXT
 	2. Importing third party hashes, from another users
